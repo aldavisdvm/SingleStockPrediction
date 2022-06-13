@@ -25,7 +25,8 @@ A classifier model is also created for comparison.
 * Seaborn, Matplotlib, and Plotly
 
 
-### Data was obtained through yfinance
+### Data
+Data is obtained through yfinance.
 
 
 ## Project Summary
